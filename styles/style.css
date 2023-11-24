@@ -93,15 +93,6 @@ ol {
   border: 1px solid #fff;
 }
 
-/* .search-form__pseudo-checkbox::after {
-  position: absolute;
-  width: 19px;
-  height: 19px;
-  right: 0;
-  top: 0;
-  border: 100px solid #fff;
-} */
-
 input[type='checkbox']:checked + span {
   width: 19px;
   height: 19px;
@@ -131,9 +122,6 @@ input[type='checkbox']:checked + span {
 .content__card-link:hover {
   text-decoration: underline;
   color: white;
-}
-
-.search-form__label-text {
 }
 
 .search-form__label {
