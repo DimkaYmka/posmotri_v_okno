@@ -202,7 +202,7 @@ input[type='checkbox']:checked + span {
 .content {
   gap: 30px;
   display: grid;
-  grid-template-columns: 711px 399px;
+  grid-template-columns: 711px 417px;
   /* align-items: center; */
   justify-content: center;
   /* padding-top: 133px; */
